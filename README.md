@@ -453,6 +453,8 @@ MDB-Engine isn't just a database layer; it's a framework for **persistent, evolv
 
 ---
 
+![](https://i.redd.it/yameotixssvx.jpg)
+
 ## Ready to "Member"?
 
 ```bash
